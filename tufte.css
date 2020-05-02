@@ -125,6 +125,10 @@ ul {
     line-height: 2rem; 
 }
 
+li {
+  float: left;
+}
+
 p {
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
